@@ -1,2 +1,2 @@
 # BluesBot
-Project for CS4390
+Playground for all stuff DL
