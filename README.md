@@ -1,2 +1,2 @@
-# BluesBot
+# JazzBot
 Playground for all stuff DL
